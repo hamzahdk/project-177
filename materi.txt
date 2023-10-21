@@ -2,3 +2,4 @@
 - pemrograman web
 - basis data
 - audit sistem
+- jaringan komputer
