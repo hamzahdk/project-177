@@ -1,0 +1,4 @@
+- sistem digital
+- pemrograman web
+- basis data
+- audit sistem
